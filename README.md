@@ -3,7 +3,7 @@
 An interactive Excel Dashboard to track Revenue, Leads & Conversion Performance in one view.
 
 ## 📸 Preview
-[![Dashboard Screenshot](Customer_Analytics_screenshot.png)](Customer_Analytics_screenshot.png)
+[![Dashboard Screenshot](Customer_Analytics_Screenshot.png)](Customer_Analytics_Screenshot.png)
 
 ## 🎯 Key Insights
 - Total Revenue: 29.4M | Total Leads: 10,936 | Conversion Rate: 7%
